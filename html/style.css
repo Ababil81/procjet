@@ -1,0 +1,37 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: burlywood;
+}
+/* style container card */
+.container{
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8bbd8;
+  text-align: center;
+  border-radius: 10px;
+  position: relative;
+}
+/*style untuk teks ucapan */
+h1{
+  font-size: 36px;
+  color: #d81b60;
+}
+p{
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #f06292;
+}
+.doa{
+  font-size: 18px;
+  color: #c2185b;
+  font-style: italic;
+}
+/* style untuk gambar */
+.cake-img{
+  width: 200px;
+  margin-bottom: 20px;
+}
